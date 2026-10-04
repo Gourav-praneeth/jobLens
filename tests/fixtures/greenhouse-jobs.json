@@ -1,0 +1,26 @@
+{
+  "jobs": [
+    {
+      "id": 101,
+      "internal_job_id": 501,
+      "title": " Software Engineer, New Grad ",
+      "updated_at": "2026-09-30T12:00:00Z",
+      "requisition_id": "ENG-101",
+      "location": { "name": "San Francisco, CA" },
+      "absolute_url": "https://job-boards.greenhouse.io/example/jobs/101",
+      "content": "<p>Build useful things.</p>",
+      "departments": [{ "id": 1, "name": "Engineering" }],
+      "offices": [{ "id": 2, "name": "San Francisco" }]
+    },
+    {
+      "id": 102,
+      "internal_job_id": null,
+      "title": "Backend Engineer",
+      "updated_at": "2026-10-01T08:30:00Z",
+      "location": { "name": "Remote" },
+      "absolute_url": "https://job-boards.greenhouse.io/example/jobs/102"
+    }
+  ],
+  "meta": { "total": 2 }
+}
+
